@@ -1,0 +1,139 @@
+body {
+
+  font-size: 15px;
+  background-color: hsl(0, 0%, 95%);
+  position: relative;
+
+  /* margin:200px auto; */
+}
+
+h1 {
+  font-family: 'Big Shoulders Display', cursive;
+  color: hsl(0, 0%, 95%);
+}
+p {
+  font-family: 'Lexend Deca', sans-serif;
+  color: hsla(0, 0%, 100%, 0.75);
+  width: 90%;
+}
+ .col {
+  width: 80px;
+  height: 440px;
+  padding: 30px;
+}
+.first-paragraph {
+  background-color: hsl(31, 77%, 52%);
+  width: 250px;
+  height: 440px;
+  padding: 30px;
+  position: relative;
+
+
+
+}
+.second-paragraph {
+  background-color: hsl(184, 100%, 22%);
+ width: 250px;
+  height: 440px;
+  padding: 30px;*/
+  position: relative;
+  /* left: 18.75rem; */
+  /* bottom: 31.25rem; */
+
+}
+.third-paragraph {
+  background-color: hsl(179, 100%, 13%);
+ width: 250px;
+  height: 440px;
+  padding: 30px;*/
+  position: relative;
+  /* left: 37.5rem; */
+  /* bottom: 62.5rem; */
+
+
+
+}
+
+.alldivs {
+  margin: auto;
+  /* width: 900px; */
+  /* height: 500px; */
+}
+.attribution {
+  text-align: center;
+
+
+}
+.btn1 {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 3.75rem;
+  font-family: 'Lexend Deca', sans-serif;
+  color: hsl(31, 77%, 52%);
+  font-size: 1.25rem;
+  background: hsl(0, 0%, 95%);
+  padding: 10px 20px 10px 20px;
+  border: solid hsl(0, 0%, 95%) 2px;
+  text-decoration: none;
+  position: relative;
+  top: 20%;
+
+}
+
+.btn1:hover {
+  background: hsl(31, 77%, 52%);
+  text-decoration: none;
+  color: hsl(0, 0%, 95%);
+}
+.btn2 {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 3.75rem;
+  font-family: 'Lexend Deca', sans-serif;
+  color: hsl(184, 100%, 22%);
+  font-size: 1.25rem;
+  background: hsl(0, 0%, 95%);
+  padding: 10px 20px 10px 20px;
+  border: solid hsl(0, 0%, 95%) 2px;
+  text-decoration: none;
+  position: relative;
+  top: 20%;
+}
+
+.btn2:hover {
+  background: hsl(184, 100%, 22%);
+  text-decoration: none;
+  color: hsl(0, 0%, 95%);
+}
+.btn3 {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 3.75rem;
+  font-family: 'Lexend Deca', sans-serif;
+  color: hsl(179, 100%, 6%);
+  font-size: 1.25rem;
+  background: hsl(0, 0%, 95%);
+  padding: 10px 20px 10px 20px;
+  border: solid hsl(0, 0%, 95%) 2px;
+  text-decoration: none;
+  position: relative;
+  top: 20%;
+
+
+}
+
+.btn3:hover {
+  background: hsl(179, 100%, 13%);
+  text-decoration: none;
+  color: hsl(0, 0%, 95%);
+}
+.container-fluid {
+ padding-top: 10%;
+
+}
+@media (max-width: 780px) {
+  .row {
+   margin: 0 10% 0;
+  }
+
+}
